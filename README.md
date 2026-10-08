@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Ismail Azmi (mailbau)
 
-### Information Engineering student turned data hunter & model tinkerer 💀
+### Corporate employee by day, data tinkerer by night 💀
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Scraping+the+web%2C+one+endpoint+at+a+time;Training+models+that+(mostly)+behave;Shipping+full-stack+apps+on+the+side;Currently+breaking+something+in+Python" alt="Typing SVG" />
 
