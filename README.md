@@ -1,6 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Muhammad Ismail Azmi (mailbau)
+### 📧 Contact me: muhammadismail1238@gmail.com
+
 
 ### Corporate employee by day, data tinkerer by night 💀
 
